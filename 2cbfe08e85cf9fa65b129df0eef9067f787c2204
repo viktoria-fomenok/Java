@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_44cbf31e",
+        "filename": "Constants.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1007626
+      },
+      "writtenOn": "2016-04-20T19:58:29Z",
+      "side": 1,
+      "message": "use final static for constants",
+      "revId": "2cbfe08e85cf9fa65b129df0eef9067f787c2204",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
