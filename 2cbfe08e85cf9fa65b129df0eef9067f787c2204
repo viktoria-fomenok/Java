@@ -16,6 +16,52 @@
       "revId": "2cbfe08e85cf9fa65b129df0eef9067f787c2204",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_04ba8b6e",
+        "filename": "NewGame.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1007635
+      },
+      "writtenOn": "2016-04-20T20:20:15Z",
+      "side": 1,
+      "message": "out of dotted line",
+      "range": {
+        "startLine": 19,
+        "startChar": 100,
+        "endLine": 19,
+        "endChar": 112
+      },
+      "revId": "2cbfe08e85cf9fa65b129df0eef9067f787c2204",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_e4b1e790",
+        "filename": "NewGame.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1007635
+      },
+      "writtenOn": "2016-04-20T20:20:15Z",
+      "side": 1,
+      "message": "Numbers here can be defined",
+      "range": {
+        "startLine": 51,
+        "startChar": 0,
+        "endLine": 59,
+        "endChar": 5
+      },
+      "revId": "2cbfe08e85cf9fa65b129df0eef9067f787c2204",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
