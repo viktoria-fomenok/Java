@@ -23,11 +23,11 @@ public class MenuButton extends StackPane {
   public MenuButton(String name) {
     text = new Text(name);
     text.getFont();
-    text.setFont(Font.font(60));
+    text.setFont(Font.font(30));
     text.setFill(Color.PURPLE);
 
-    background = new Rectangle(300, 80);
-    background.setOpacity(0.6);
+    background = new Rectangle(250, 45);
+    background.setOpacity(0.8);
     background.setFill(Color.SKYBLUE);
     background.setEffect(new GaussianBlur(10));
 

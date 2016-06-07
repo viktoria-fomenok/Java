@@ -46,4 +46,3 @@ public class Main extends Application implements Constants {
     launch(args);
   }
 }
-
